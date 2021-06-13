@@ -1,5 +1,5 @@
 # TheSparksFoundation_GripJun21
-Task 1: Prediction using Supervised ML model
+Task 1: Prediction using Supervised ML model<br>
 Build a Supervised ML model to predict percentage score depending on number of hours studied.
 
 Task 2: Prediction using Unsupervised ML model
